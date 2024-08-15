@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
-import App from "./App-v2";
+import App from "./App-v2s";
 import StarRating from "./StarRating";
 
 // function Test() {
